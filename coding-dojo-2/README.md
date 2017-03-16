@@ -1,13 +1,29 @@
 Copy paste from ../template project.
 
-Coding Dojo #2 (16.3.2017) 
+# Coding Dojo #2 (16.3.2017)
+ 
+## Form
+ 1. sit to computer
+ 2. fix failing test
+ 3. refactor
+ 4. make sure all tests are green (ok)
+ 5. write new (failing) test
+ 6. switch computer driver 
+ 7. repeat
+ 
+## Constraints
+ 1. use only assertj assertions
+ 2. write just one assert per test (it's good practice anyway)
+ 3. use java 8 lambdas and stream api where possible
+ 4. each method can have only 5 lines
+ 5. don't use mouse when run test(s) in your IDE or when navigate between files
 
-Links
-http://junit.org/junit5/docs/current/user-guide/
-http://joel-costigliola.github.io/assertj/
-http://osherove.com/tdd-kata-1/
+## Links
+* http://junit.org/junit5/docs/current/user-guide/
+* http://joel-costigliola.github.io/assertj/
+* http://osherove.com/tdd-kata-1/
 
-Problem 
+## Problem 
 
 copy pasted from http://osherove.com/tdd-kata-1/
 
