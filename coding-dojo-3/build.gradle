@@ -5,6 +5,9 @@ apply plugin: 'groovy'
 
 repositories {
     mavenCentral()
+    maven {
+        url "https://a-team.csint.cz/artifactory/repo"
+    }
 }
 
 dependencies {
